@@ -1,7 +1,7 @@
 # churrascrometro
 
-- [Visão geral](##visão geral)
-   - [Captura de tela](#captura de tela)
+- [Visão geral](#Visão geral)
+   - [Captura de tela](#Captura de tela)
    - [Links](#links)
 - [Meu processo](#meu-processo)
    - [Construído com](#construído com)
