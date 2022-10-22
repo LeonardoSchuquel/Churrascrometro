@@ -7,9 +7,11 @@
     
 }
 
-.conteiner{
+body{
 
-    position: absolute;
+    background-image: url(/image/evan-wise-D99y38Na5Xo-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
 
